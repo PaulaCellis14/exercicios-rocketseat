@@ -1,1 +1,2 @@
-![resultado](https://github.com/PaulaCellis14/exercicios-rocketseat/assets/146037300/e460e1c4-b9bf-47f7-8ae9-c4a9d5cd5757)
+
+![resultado](https://github.com/PaulaCellis14/exercicios-rocketseat/assets/146037300/1905883a-e97f-419f-9b0b-f877e8b6921d)
