@@ -1,1 +1,1 @@
-Exercícios de programação ofertados pela Rocketseat.
+Exercícios do curso FULLSTACK ofertados pela Rocketseat.
